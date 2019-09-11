@@ -1,0 +1,7 @@
+        String dbDriver = "ccom.microsoft.sqlserver.jdbc.SQLServerDriver"; 
+	String dbURL = "jdbc:sqlserver://172.20.8.14:1433/"; 
+	// Database name to access 
+	String dbName = "CeyBank"; 
+	String dbUsername = "testceybank"; 
+	String dbPassword = "testceybank"; ## YAML Template.
+---
